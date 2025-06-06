@@ -1,0 +1,15 @@
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.AssemblyInfoInputs.cache
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.AssemblyInfo.cs
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.csproj.CoreCompileInputs.cache
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.sourcelink.json
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\bin\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.exe
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\bin\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.deps.json
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\bin\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.runtimeconfig.json
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\bin\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.dll
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\bin\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.pdb
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.dll
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\refint\tl1-tp8-2025-JuanMartinFeliu.dll
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.pdb
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\tl1-tp8-2025-JuanMartinFeliu.genruntimeconfig.cache
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\ToDo\obj\Debug\net8.0\ref\tl1-tp8-2025-JuanMartinFeliu.dll

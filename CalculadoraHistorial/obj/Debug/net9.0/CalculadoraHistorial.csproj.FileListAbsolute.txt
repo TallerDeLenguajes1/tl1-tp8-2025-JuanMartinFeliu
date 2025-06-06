@@ -1,0 +1,15 @@
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.exe
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.deps.json
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.runtimeconfig.json
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.dll
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\bin\Debug\net9.0\CalculadoraHistorial.pdb
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.AssemblyInfoInputs.cache
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.AssemblyInfo.cs
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.csproj.CoreCompileInputs.cache
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.sourcelink.json
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.dll
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\refint\CalculadoraHistorial.dll
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.pdb
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\CalculadoraHistorial.genruntimeconfig.cache
+D:\Taller de Lenguajes\tl1-tp8-2025-JuanMartinFeliu\CalculadoraHistorial\obj\Debug\net9.0\ref\CalculadoraHistorial.dll
